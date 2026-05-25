@@ -1,4 +1,4 @@
-# ☕ Maratona Java - DevDojo
+#  Maratona Java - DevDojo
 
 Repositório de Estudos | Desenvolvimento Back-End com Java
 
@@ -6,7 +6,7 @@ Este repositório foi criado para organizar todos os códigos, anotações, exer
 
 ---
 
-##  Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java**
 - **IntelliJ IDEA** (IDE utilizada para o desenvolvimento)
@@ -18,7 +18,7 @@ Este repositório foi criado para organizar todos os códigos, anotações, exer
 
 Abaixo está a divisão dos módulos e tópicos que já estudei e implementei até o momento:
 
-### 🟩 Módulo 1: Fundamentos da Linguagem
+### Módulo 1: Fundamentos da Linguagem
 - [x] Configuração do ambiente de desenvolvimento (JDK e IDE).
 - [x] Variáveis, tipos primitivos (int, double, float, char, boolean) e convenções de nomenclatura.
 - [x] Operadores aritméticos, relacionais, lógicos e de atribuição.
@@ -26,7 +26,7 @@ Abaixo está a divisão dos módulos e tópicos que já estudei e implementei at
 - [x] Estruturas de repetição (`while`, `do-while`, `for`).
 - [x] Arrays unidimensionais e multidimensionais (Matrizes).
 
-### 🟦 Módulo 2: Orientação a Objetos (Introdução ao Avançado)
+### Módulo 2: Orientação a Objetos (Introdução ao Avançado)
 - [x] Criação de Classes, Atributos e Métodos.
 - [x] Passagem de parâmetros e sobrecarga de métodos.
 - [x] Construtores e blocos de inicialização.
@@ -39,7 +39,7 @@ Abaixo está a divisão dos módulos e tópicos que já estudei e implementei at
 
 ---
 
-## 📁 Organização dos Arquivos
+## Organização dos Arquivos
 
 Os códigos estão organizados por pacotes dentro do diretório principal, facilitando a navegação pelos temas das aulas:
 
