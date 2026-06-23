@@ -1,11 +1,7 @@
-package academy.devdojo.javacore.kenum.Dominio;
+package academy.devdojo.javacore.kenumeracao.Dominio;
 
 public class Cliente {
-    public enum TipoPagamento {
-        CREDITO,
-        DEBITO
 
-    }
     private String nome;
     private TipoCliente tipoCliente;
     private TipoPagamento tipoPagamento;
@@ -18,7 +14,7 @@ public class Cliente {
 
     @Override
     public String toString() {
-        return "Cliente{" +
+        return "Cliente" +
                 "nome ='" + nome + '\'' +
                 ", tipo ='" + tipoPagamento + '\'' +
                 ", tipoCliente =" + tipoCliente +
